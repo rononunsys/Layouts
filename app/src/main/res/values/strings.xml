@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Layouts</string>
+    <array name="lista_cargo">
+        <item>Ventas</item>
+        <item>Informática</item>
+        <item>Jardinería</item>
+    </array>
+
+    <array name="lista_estado_civil">
+        <item>Soltero</item>
+        <item>Casado</item>
+    </array>
+</resources>
